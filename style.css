@@ -1,0 +1,11 @@
+header {
+    background-color: dimgray;
+    color: lavender;
+    height: 100%;
+    margin: 0;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Comic Sans MS;
+}
